@@ -1,0 +1,28 @@
+{
+  "name": "spotify-lookup",
+  "version": "1.0.0",
+  "description": "find genres in spotify based on artists and songs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjarousky/spotify-lookup.git"
+  },
+  "keywords": [
+    "spotify",
+    "genre"
+  ],
+  "author": "Brandon Jarousky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bjarousky/spotify-lookup/issues"
+  },
+  "homepage": "https://github.com/bjarousky/spotify-lookup#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "heroku": "^7.7.10",
+    "node": "^10.8.0"
+  }
+}
